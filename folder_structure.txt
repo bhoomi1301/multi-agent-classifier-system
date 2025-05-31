@@ -1,0 +1,39 @@
+multi-agent-classifier-system/
+├── README.md
+├── requirements.txt
+├── main.py                 # Main entry point for CLI
+├── api.py                 # FastAPI web server
+├── agent_orchestrator.py  # Main orchestrator for routing inputs
+├── multi_agent_orchestrator.py  # Extended orchestrator functionality
+│
+├── agents/               # Agent implementations
+│   ├── classifier_agent.py  # Classifies input format and intent
+│   ├── complaint_agent.py   # Handles complaint emails
+│   ├── email_agent.py       # Processes email content
+│   ├── json_agent.py        # Processes JSON documents
+│   ├── other_agent.py       # Handles other document types
+│   ├── pdf_agent.py         # Handles PDF documents
+│   ├── regulation_agent.py  # Handles regulation documents
+│   └── rfq_agent.py        # Handles Request for Quote documents
+│
+├── core/                 # Core functionality
+│   ├── llm_service.py      # LLM service integration
+│   └── memory_store.py     # Persistent storage for processing history
+│
+├── sample_inputs/        # Example input files for testing
+│   ├── complaint_email.txt
+│   ├── emergency_issue_email.txt
+│   ├── general_inquiry_email.txt
+│   ├── invoice_example.json
+│   ├── regulation_document.pdf.txt
+│   └── rfq_example.json
+│
+└── tests/                # Test files
+    ├── test_agents.py
+    ├── test_classifier.py
+    ├── test_email_agent.py
+    ├── test_json_agent.py
+    ├── test_pdf_route.py
+    └── test_pdf_routing.py
+
+# Note: Some files like memory_store.db (SQLite database) are generated at runtime.

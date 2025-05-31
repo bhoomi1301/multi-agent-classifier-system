@@ -1,0 +1,26 @@
+{
+  "rfq_id": "RFQ-2025-001",
+  "date": "2025-05-30",
+  "company_name": "ABC Corporation",
+  "contact_person": "Jane Smith",
+  "email": "jane.smith@abccorp.com",
+  "phone": "+1 (555) 123-4567",
+  "items": [
+    {
+      "item_id": "ITEM-001",
+      "description": "Industrial Widget X2000",
+      "quantity": 50,
+      "specifications": "Must meet ISO 9001 standards"
+    },
+    {
+      "item_id": "ITEM-002",
+      "description": "High-Tech Gizmo Pro",
+      "quantity": 25,
+      "specifications": "Waterproof, dustproof, shock-resistant"
+    }
+  ],
+  "delivery_address": "123 Business Ave, Tech Park, Silicon Valley, CA 94025",
+  "required_delivery_date": "2025-07-15",
+  "payment_terms": "Net 30 days",
+  "notes": "Please include shipping costs and estimated delivery time in your quotation."
+}

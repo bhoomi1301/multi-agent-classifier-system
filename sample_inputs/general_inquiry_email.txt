@@ -1,0 +1,24 @@
+From: alex.johnson@example.com
+To: info@company.com
+Subject: Product Information Request
+Date: May 31, 2025
+
+Hello Support Team,
+
+I came across your website while searching for enterprise software solutions. I'm particularly interested in your project management tools and would like to know more about your offerings.
+
+Could you please provide information on:
+1. Pricing plans for teams of 50+ users
+2. Available integrations with other enterprise tools
+3. On-premise vs. cloud deployment options
+4. Implementation timeline and support
+
+Also, do you offer a demo or trial period for potential enterprise clients?
+
+Thank you for your assistance. I look forward to your response.
+
+Best regards,
+Alex Johnson
+IT Director
+InnovateCorp
+Phone: (555) 987-6543

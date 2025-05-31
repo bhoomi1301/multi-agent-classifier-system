@@ -1,0 +1,33 @@
+[This is a simulation of text extracted from a PDF document]
+
+GOVERNMENT REGULATION NOTICE
+Document ID: REG-2025-42
+Effective Date: June 15, 2025
+Department: Environmental Protection Agency
+
+ENVIRONMENTAL PROTECTION REGULATIONS 2025
+
+SECTION 1: GENERAL PROVISIONS
+
+1.1 Purpose
+These regulations establish requirements for the handling, storage, and disposal of hazardous materials in industrial facilities.
+
+1.2 Scope
+This regulation applies to all manufacturing facilities processing more than 1,000 tons of material annually.
+
+SECTION 2: REQUIREMENTS
+
+2.1 Hazardous Material Storage
+All facilities must implement secondary containment systems capable of holding 110% of the largest storage container or 10% of the total volume, whichever is greater.
+
+2.2 Employee Training
+All personnel handling hazardous materials must complete a 40-hour certification course within 90 days of employment.
+
+2.3 Reporting Requirements
+Any spill exceeding 5 gallons must be reported to the EPA within 1 hour of discovery.
+
+COMPLIANCE DEADLINES:
+- Existing facilities: Must comply by January 1, 2026
+- New facilities: Must comply before commencing operations
+
+For questions, contact: regulations@epa.gov

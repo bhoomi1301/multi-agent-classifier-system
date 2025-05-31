@@ -1,0 +1,36 @@
+From: jane.doe@example.com
+To: support@company.com
+Subject: [URGENT] Production System Down - Immediate Action Required
+Date: May 31, 2025 09:15 AM
+Priority: High
+
+Hello Support Team,
+
+**URGENT: PRODUCTION OUTAGE**
+
+Our entire production system has been down for the past 30 minutes, affecting all users. This is causing significant business impact with estimated losses of $10,000 per hour.
+
+Error details:
+- Error Code: 500 Internal Server Error
+- Affected Service: Payment Processing System
+- First Occurrence: 2025-05-31 08:45 AM EST
+- Impact: All transactions are failing
+
+ACTION REQUIRED:
+1. Please treat this as a P1 critical incident
+2. Immediate response needed from your technical team
+3. We need an ETA for resolution ASAP
+
+Our technical contact:
+- Name: John Smith
+- Phone: (555) 123-4567 (available 24/7)
+- Email: john.smith@example.com
+
+This is extremely time-sensitive. Please acknowledge receipt of this email and provide an update within 15 minutes.
+
+Best regards,
+Jane Doe
+IT Operations Manager
+Acme Corporation
+Phone: (555) 987-6543 (Office)
+Phone: (555) 876-5432 (Mobile - Call anytime)
