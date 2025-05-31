@@ -147,10 +147,6 @@ python -m pytest
 - Ollama - Local LLM for document classification
 - python-dotenv - Environment variable management
 
-## License
-
-[Specify your license here]
-
 ## Contributing
 
 1. Fork the repository
